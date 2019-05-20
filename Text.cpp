@@ -1,4 +1,6 @@
-void Text
+﻿void Text
 {
-print("texttext");
+	print("texttext");
+
+	李
 }
